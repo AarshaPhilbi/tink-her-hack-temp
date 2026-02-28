@@ -79,6 +79,8 @@ frontend: npm run dev```
 
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
+<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/393d5b45-0c4f-4f34-b242-1e7b69333d6c" />
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -282,11 +284,9 @@ python script.py -v --format json data.json
 
 ---
 
-## AI Tools Used (Optional - For Transparency Bonus)
 
-If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
+**Tool Used:** ChatGPT, Claude
 
 **Purpose:** [What you used it for]
 - Example: "Generated boilerplate React components"
