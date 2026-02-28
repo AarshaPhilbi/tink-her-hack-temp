@@ -13,7 +13,9 @@
 - Member 2: [Aleena Wilson] - [College of Engineering Trivandrum]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+
+https://stockstar-9gj6.vercel.app/
+
 
 ### Project Description
 A stock market simulation game where the user competes with an opponent ai, which analyses the users choices and explain its point of view.
@@ -273,9 +275,8 @@ python script.py -v --format json data.json
 ---
 
 ## Project Demo
-
-### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+DEMO VIDEO AND SCREENSHOTS
+https://drive.google.com/drive/u/0/folders/1v-jYAX7pISDqZtLaWJke1IOT1CPmV5hn)
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
