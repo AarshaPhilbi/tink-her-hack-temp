@@ -78,8 +78,8 @@ frontend: npm run dev```
 #### Screenshots (Add at least 3)
 
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/393d5b45-0c4f-4f34-b242-1e7b69333d6c" />
+front page
+<img width="1600" height="719" alt="image" src="https://github.com/AarshaPhilbi/tink-her-hack-temp/blob/main/p1.jpeg?raw=true" />
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
