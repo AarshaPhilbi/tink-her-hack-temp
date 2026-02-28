@@ -79,7 +79,7 @@ frontend: npm run dev```
 
 ![Screenshot1](Add screenshot 1 here with proper name)
 front page
-<img width="1600" height="719" alt="image" src="./img.png"/>
+<img width="1600" height="719" alt="image" src="./p1.png"/>
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
