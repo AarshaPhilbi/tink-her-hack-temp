@@ -4,25 +4,25 @@
 
 # [Project Name] 🎯
 
-## Basic Details
+## Stock-Star
 
-### Team Name: [Name]
+### Team Name: CrtlAltSolve
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Aarsha Philbi] - [College of Engineering Trivandrum]
+- Member 2: [Aleena Wilson] - [College of Engineering Trivandrum]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+A stock market simulation game where the user competes with an opponent ai, which analyses the users choices and explain its point of view.
 
 ### The Problem statement
-[What problem are you solving?]
+Most people have trouble understanding stock market and its dynamic nature.
 
 ### The Solution
-[How are you solving it?]
+Simulating a fun game where people can have practical experience without spending real money.
 
 ---
 
@@ -31,25 +31,22 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: Python, Typescript
+- Frameworks used: NextJS, Python Flask, LangChain, LangGraph
+- Libraries used: React, Framer Motion, Recharts, Tailwind CSS, shadcn/ui, Lucide React,  ChromaDB, Sentence Transformers (all-MiniLM-L6-v2), Supabase 
+- Tools used: VS Code, Git, Groq API KEYS, Alpha Vantage API KEY.
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: simulation of a stock market
+- Feature 2: given a market headline, user is given choice to sell, buy, hold stocks.
+- Feature 3: ai gives its own opinion and analyses the given situation of that round
+- Feature 4: generates a final report of the user's performance after all rounds.
 
 ---
 
@@ -59,23 +56,19 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+frontend: npm install i
+
+backend: pip install requirements.txt
+        pip install groq
+pip install sentence_transformer
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
-```
+backend: uvicorn app.main:app --reload
+frontend: npm run dev```
 
-### For Hardware:
 
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
 
 ## Project Documentation
 
